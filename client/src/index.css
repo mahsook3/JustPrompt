@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#dashboard-image {
+    transition: transform 0.3s ease-out;
+  }
+  
