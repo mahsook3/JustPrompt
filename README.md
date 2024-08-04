@@ -1,7 +1,8 @@
 # JustPrompt.ai
 
 JustPrompt.ai empowers offline businesses with seamless online transitions using AI-powered tools and a no-code platform.
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=XNejlBcillc)
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/XNejlBcillc-Y/0.jpg)](https://www.youtube.com/watch?v=XNejlBcillc "Everything Is AWESOME")
 
 ## Table of Contents
 - [Introduction](#introduction)
