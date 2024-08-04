@@ -2,6 +2,7 @@
 
 JustPrompt.ai empowers offline businesses with seamless online transitions using AI-powered tools and a no-code platform.
 
+## Demo
 [![JustPrompt.ai](https://img.youtube.com/vi/XNejlBcillc/0.jpg)](https://www.youtube.com/watch?v=XNejlBcillc)
 
 ## Table of Contents
