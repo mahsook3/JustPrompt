@@ -5,18 +5,6 @@ JustPrompt.ai empowers offline businesses with seamless online transitions using
 ## Demo
 [![JustPrompt.ai](https://img.youtube.com/vi/XNejlBcillc/0.jpg)](https://www.youtube.com/watch?v=XNejlBcillc)
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [API Integration](#api-integration)
-- [Testing Instructions](#testing-instructions)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Introduction
 JustPrompt.ai is designed to help small businesses establish their online presence quickly and efficiently. Recognized as one of the Top 10 startups across India by IIT Hyderabad in the MEITY Grand Challenge 2024, our platform offers an intuitive, no-code solution for creating professional websites with ease.
 
